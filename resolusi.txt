@@ -1,2 +1,3 @@
 Resolusi:
-Belajar Coding agar menjadi fullstack
+- Belajar Coding agar menjadi fullstack
+- Mencari pekerjaan dengan gaji 10jt
